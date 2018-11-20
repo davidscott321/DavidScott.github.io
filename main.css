@@ -1,3 +1,16 @@
-h1 {
+h1 
+{
     color: blue;
+}
+.center
+{
+    text-align: center;
+}
+h2
+{
+    color: rgb(0, 149, 100);
+}
+img
+{
+    float: right;
 }
